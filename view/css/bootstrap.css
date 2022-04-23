@@ -260,7 +260,7 @@ th {
   }
   .table td,
   .table th {
-    background-image: url("imagens/background.png"); !important;
+    background-image: url("images/background.png"); !important;
   }
   .table-bordered th,
   .table-bordered td {
@@ -1090,7 +1090,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #82807c;
-  background-image: url("../imagens/background.png");
+  background-image: url("../images/background.png");
 }
 input,
 button,
