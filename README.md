@@ -28,8 +28,8 @@ The "Restaurant Counter" is a password counter for restaurants, in order to assi
 
   *Ao apertar a seta para cima do teclado (↥) é informado o próximo número de senha prioritária.*
 
-- Pressing the up arrow on the keyboard (↧) informs the previous number of priority password.
+- When pressing the down arrow on the keyboard (↧) the previous number of priority password is informed.
 
-  *Ao apertar a seta para cima do teclado (↧) é informado o número anterior de senha prioritária*
+  *Ao apertar a seta para baixo do teclado (↧) é informado o número anterior de senha prioritária*
 
 ![image-20220423204756988](images_readme/image-20220423204756988.png)
