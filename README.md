@@ -21,8 +21,8 @@ The "Restaurant Counter" is a password counter for restaurants, in order to assi
 - Pressing the arrow to the left of the keyboard (↤) the previous number of normal password is informed. No priority.
 
   *Ao apertar a seta para o lado esquerdo do teclado (↤) é informado o número anterior de senha normal. Sem prioridade.*
-
-![image-20220423204322485](C:\Users\Egidio\AppData\Roaming\Typora\typora-user-images\image-20220423204322485.png)
+  
+  ![image-20220423204322485](images_readme\image-20220423204322485.png)
 
 - Pressing the up arrow on the keyboard (↥) informs the next priority password number.
 
@@ -32,4 +32,4 @@ The "Restaurant Counter" is a password counter for restaurants, in order to assi
 
   *Ao apertar a seta para cima do teclado (↧) é informado o número anterior de senha prioritária*
 
-![image-20220423204756988](C:\Users\Egidio\AppData\Roaming\Typora\typora-user-images\image-20220423204756988.png)
+![image-20220423204756988](images_readme\image-20220423204756988.png)
