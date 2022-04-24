@@ -1,5 +1,6 @@
 # Restaurant counter
 The "Restaurant Counter" is a password counter for restaurants, in order to assist in the organization and control of daily sales.
+
 *O "Contador para restaurante" é um contador de senhas para restaurantes, afim de auxiliar na organização e no controle de vendas diárias.*
 
 ---
